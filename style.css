@@ -1,0 +1,10 @@
+body {
+	font-family: 'Martel', serif;;
+	color: #585656;
+	background-color: #e4e4e4;
+	text-align: left;
+  padding-inline-start: 30px;
+  padding-inline-end: 200px;
+  padding-top: 20px;
+  justify-content: left;
+}
